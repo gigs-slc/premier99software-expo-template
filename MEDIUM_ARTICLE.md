@@ -1,5 +1,7 @@
 # Building a Production-Ready React Native/Expo Template: A Modern Approach
 
+![Premier99 Software Logo](premier99-logo.webp)
+
 ## Stop wasting hours setting up every new React Native project. Here's how I built a reusable template that saves me days of work.
 
 ---
