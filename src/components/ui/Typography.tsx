@@ -7,7 +7,7 @@ interface TypographyProps extends Omit<TextProps, 'style'> {
   /** Typography variant */
   variant?: TypographyVariant;
   /** Text color override */
-  color?: 'primary' | 'secondary' | 'text' | 'textSecondary' | 'textMuted' | 'error' | 'success';
+  color?: 'primary' | 'secondary' | 'text' | 'textSecondary' | 'textMuted' | 'textInverse' | 'error' | 'success';
   /** Center align text */
   center?: boolean;
   /** Bold text */
@@ -94,6 +94,9 @@ const styles = StyleSheet.create((theme) => ({
   },
   color_textMuted: {
     color: theme.colors.textMuted,
+  },
+  color_textInverse: {
+    color: theme.colors.textInverse,
   },
   color_error: {
     color: theme.colors.error,
