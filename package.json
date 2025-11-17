@@ -13,11 +13,11 @@
     "tanstack-query",
     "typescript"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Griffin Huth <griffin@premier99software.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/premier99softwaretemplate"
+    "url": "https://github.com/gigs-slc/premier99software-expo-template"
   },
   "scripts": {
     "start": "expo start",

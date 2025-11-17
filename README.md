@@ -11,7 +11,7 @@ Create a new app from this template in seconds:
 npx create-expo-app MyApp --template premier99-react-native-template
 
 # From GitHub
-npx create-expo-app MyApp --template https://github.com/yourusername/premier99softwaretemplate
+npx create-expo-app MyApp --template https://github.com/gigs-slc/premier99software-expo-template
 
 # Then navigate and start
 cd MyApp
