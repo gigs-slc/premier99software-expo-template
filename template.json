@@ -1,0 +1,5 @@
+{
+  "name": "premier99-react-native-template",
+  "description": "Production-ready React Native/Expo template with MMKV, Unistyles, Zustand, and TanStack Query",
+  "version": "1.0.0"
+}
